@@ -1,4 +1,4 @@
-# Erlang – From Concurrent to Distributed
+# Erlang's Path: Concurrency to Seamless Distribution
 
 This repository will be updated with the exercises.
 
