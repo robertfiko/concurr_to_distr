@@ -20,8 +20,8 @@ Congrats! You have your environment ready!
 The container has your current working directory attached as a volume, so you can
 work on your host system, while run the code in the container.
 
-It is also possible to attach VS Code to a container, but it won't be necessary 
-for these exercises.
+The next step what is needed is to attach VS Code to the container:
+[Attach to a running container | VS Code docs](https://code.visualstudio.com/docs/devcontainers/attach-container)
 
 You can exit from the container with `exit`.
 
