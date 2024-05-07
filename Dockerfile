@@ -5,4 +5,4 @@ COPY . /app
 WORKDIR /app
 
 # start with a shell
-CMD ["sh"]
+CMD ["bash"]
