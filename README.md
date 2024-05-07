@@ -17,4 +17,12 @@ Eshell V13.2.2.9  (abort with ^G)
 ```
 Congrats! You have your environment ready!
 
+The container has your current working directory attached as a volume, so you can
+work on your host system, while run the code in the container.
+
+It is also possible to attach VS Code to a container, but it won't be necessary 
+for these exercises.
+
 You can exit from the container with `exit`.
+
+I recommend to install this extension : [Erlang LS](https://marketplace.visualstudio.com/items?itemName=erlang-ls.erlang-ls)
