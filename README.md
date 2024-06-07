@@ -1,6 +1,7 @@
 # Erlang's Path: Concurrency to Seamless Distribution
 
-This repository will be updated with the exercises.
+Exercises can be found in the `exercises` directory and the solutions in the `solutions` directory.
+The presentation is uploaded as [presentation.pdf](presentation.pdf).
 
 ## Prerequisites
 
