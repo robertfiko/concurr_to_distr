@@ -1,0 +1,2 @@
+%% -*- erlang -*-
+{node, "${NODE_NAME}"}.
